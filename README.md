@@ -29,7 +29,8 @@ Và ở project này có 2 đối tượng: Category và Product có quan hệ 1
 <img width="1440" alt="Screenshot 2023-05-14 at 12 31 11" src="https://github.com/tuyetnga09/Thymleaf_SpringBoot/assets/108625115/dd8775f1-f966-430d-bdb2-a67122e1c4a2">
 
 5.2. Hiển thị danh sách sản phẩm(Product)
-<img width="1440" alt="Screenshot 2023-05-14 at 12 32 54" src="https://github.com/tuyetnga09/Thymleaf_SpringBoot/assets/108625115/77d17022-5192-46f7-b578-9f580bc611f7">
+<img width="1438" alt="Screenshot 2023-05-14 at 14 07 42" src="https://github.com/tuyetnga09/Thymleaf_SpringBoot/assets/108625115/bc0e7432-6d68-4daa-ad66-6e7c711bc2d0">
+
 
 5.3. Form thêm và sửa thông tin sản phẩm 
 <img width="1255" alt="Screenshot 2023-05-14 at 12 35 59" src="https://github.com/tuyetnga09/Thymleaf_SpringBoot/assets/108625115/2692b97b-93d4-4db1-9d78-226d59eb0eb1">
