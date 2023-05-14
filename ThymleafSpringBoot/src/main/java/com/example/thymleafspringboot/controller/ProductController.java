@@ -50,4 +50,9 @@ public class ProductController {
         model.addAttribute("listCategories", listCategories);
         return "product_form";
     }
+    @GetMapping("product/delete/{id}")
+    public String deleteProduct(@PathVariable("id") Integer id, Model model){
+        productRepository.deleteById(id);
+        return "redirect:/products";
+    }
 }
