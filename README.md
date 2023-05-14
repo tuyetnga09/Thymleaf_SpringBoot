@@ -34,3 +34,16 @@ Và ở project này có 2 đối tượng: Category và Product có quan hệ 1
 5.3. Form thêm và sửa thông tin sản phẩm 
 <img width="1255" alt="Screenshot 2023-05-14 at 12 35 59" src="https://github.com/tuyetnga09/Thymleaf_SpringBoot/assets/108625115/2692b97b-93d4-4db1-9d78-226d59eb0eb1">
 
+* Ngoài ra mình còn đang tìm hiểu thêm các chức năng khác để hoàn thiện hơn.
+
+** Giải thích cách vận hành của Thymleaf 
+
+<img width="730" alt="Screenshot 2023-05-14 at 12 40 50" src="https://github.com/tuyetnga09/Thymleaf_SpringBoot/assets/108625115/4e61f6db-3fba-43bf-b8a1-4c9d54fdd965">
+
+Các file HMTL do Thymeleaf tạo ra là nhờ kết hợp dữ liệu và template + quy tắc để sinh ra một file HTML chứa đầy đủ thông tin.
+
+
+
+
+
+
